@@ -1,8 +1,8 @@
 ## Olá eu sou o Gabriel Thiago!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, java, SQL and Angular
 - 🤔 I’m looking for help with about how to find a girlfriend.
 - 💬 Ask me about good stuff.
-- 📫 How to reach me: gabrielthiagodasilva8@gmail.com
+- 📫 How to reach me: leucides123@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ... I'm Damian Wayne.
 
@@ -17,6 +17,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+ 
   </div>
   
    ##
