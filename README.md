@@ -1,6 +1,6 @@
 ## Olá eu sou o Gabriel Thiago!
-- 🌱 I’m currently learning about JavaScript, java, SQL and Angular
-- 🤔 I’m looking for help with about how to find my first opportunity as a developer.
+- 🌱 I’m currently learning about Python, Excel, SQL and VBA.
+- 🤔 I’m looking for help with about how to find my first opportunity as a Data Analyst.
 - 💬 Ask me about good stuff.
 - 📫 How to reach me: leucides123@gmail.com or (47) 9-9665-7574.
 - 😄 Pronouns: He/Him.
