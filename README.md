@@ -1,10 +1,10 @@
 ## Olá eu sou o Gabriel Thiago!
-- 🌱 I’m currently learning about Python, Excel, Power BI, SQL and VBA.
+- 🌱 I’m currently learning about Python, Excel, Power BI and SQL.
 - 🤔 I’m looking for help with about how to find my first opportunity as a Data Analyst.
 - 💬 Ask me about good stuff.
-- 📫 How to reach me: leucides123@gmail.com or (47) 9-9665-7574.
+- 📫 How to reach me: gabrielthiagodasilva8@gmail.com or (47) 9-9665-7574.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: ... I'm Damian Wayne.
+
 
  <div align="center">
   <a href="https://github.com/Gabrielxdev">
