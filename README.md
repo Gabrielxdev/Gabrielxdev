@@ -16,9 +16,9 @@
  
 
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+<img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
 <img align="center" alt="Matplotlib" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-<img align="center" alt="Seaborn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg">
+<img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
  
  
   </div>
