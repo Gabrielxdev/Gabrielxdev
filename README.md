@@ -7,21 +7,15 @@
 
 <div align="center">
   <a href="https://github.com/Gabrielxdev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabrielxdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielxdev&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabrielxdev&show_icons=true&theme=dracula&include_all_commits=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielxdev&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Matplotlib" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="Seaborn" height="100" width="110" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
-</div>
 
-  
-   
-  
-
- 
+<div align="center">
+  <br>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
+  <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
 </div>
