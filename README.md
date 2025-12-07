@@ -15,7 +15,5 @@
 <div align="center">
   <br>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-  <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
