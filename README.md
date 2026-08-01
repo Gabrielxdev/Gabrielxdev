@@ -24,7 +24,7 @@ Sou um analista de dados com foco estrito na criação de processos de ETL, dese
 
 <div align="center">
   <a href="https://github.com/Gabrielxdev">
-    <img height="160em" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Gabrielxdev&show_icons=true&theme=dracula&cache_seconds=86400"/>
-    <img height="160em" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielxdev&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/>
+    <img height="160em" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Gabrielxdev&show_icons=true&theme=dracula"/>
+    <img height="160em" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielxdev&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
