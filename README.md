@@ -22,11 +22,10 @@ Sou um analista de dados com foco estrito na criação de processos de ETL, dese
 
 <br>
 
+
 <div align="center">
   <a href="https://github.com/Gabrielxdev">
-    <!-- Alternativa temporária: profile-summary enquanto o serviço original estiver pausado -->
-    <img alt="profile-summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielxdev" />
+    <!-- Card de detalhes com o tema Dracula para combinar com o modo escuro -->
+    <img alt="profile-summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielxdev&theme=dracula" />
   </a>
-  
-  <!-- Se preferir, posso substituir por um deploy próprio do github-readme-stats ou configurar um workflow para gerar imagens estáticas. -->
 </div>
