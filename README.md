@@ -7,7 +7,7 @@ Sou um analista de dados com foco estrito na criação de processos de ETL, dese
 - 📫 **Como me encontrar:** gabrielthiagodasilva8@gmail.com | (47) 99665-7574
 - 😄 **Pronomes:** Ele/Dele
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <div align="left">
   <!-- Python -->
