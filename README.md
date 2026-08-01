@@ -19,7 +19,7 @@ Sou um analista de dados com foco estrito na criação de processos de ETL, dese
   <!-- SQL Server -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="40" alt="SQL Server" />
   <!-- Databricks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" height="40" width="40" alt="Databricks" />
+  <img src="https://cdn.simpleicons.org/databricks" height="40" width="40" alt="Databricks" />
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" width="40" alt="Power BI" />
 </div>
