@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Thiago! 
 
-Sou um analista de dados com foco estrito na criação de processos de ETL, desenvolvimento de dashboards e análise de dados. Atualmente, sou estudante de Data Science e estou sempre buscando expandir meus conhecimentos para construir pipelines e análises cada vez mais eficientes.
+Sou um analista de dados com foco estrito na criação de processos de ETL, desenvolvimento de dashboards e análise de dados. Atualmente, sou estudante de Data Science e estou sempre buscando expa[...]
 
 - 🌱 **Atualmente aprimorando:** Python, Machine Learning, Power BI e Engenharia de Dados utilizando Databricks.
 - 💬 **Pergunte-me sobre:** Análise de dados, modelagem, estruturação de ETL e criação de dashboards.
@@ -24,7 +24,9 @@ Sou um analista de dados com foco estrito na criação de processos de ETL, dese
 
 <div align="center">
   <a href="https://github.com/Gabrielxdev">
-    <img height="160em" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Gabrielxdev&show_icons=true&theme=dracula"/>
-    <img height="160em" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielxdev&layout=compact&langs_count=7&theme=dracula"/>
+    <!-- Alternativa temporária: profile-summary enquanto o serviço original estiver pausado -->
+    <img alt="profile-summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielxdev" />
   </a>
+  
+  <!-- Se preferir, posso substituir por um deploy próprio do github-readme-stats ou configurar um workflow para gerar imagens estáticas. -->
 </div>
