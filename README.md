@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel Thiago! 👋
+## Olá, eu sou o Gabriel Thiago! 
 
 Sou um analista de dados com foco estrito na criação de processos de ETL, desenvolvimento de dashboards e análise de dados. Atualmente, sou estudante de Data Science e estou sempre buscando expandir meus conhecimentos para construir pipelines e análises cada vez mais eficientes.
 
@@ -25,8 +25,6 @@ Sou um analista de dados com foco estrito na criação de processos de ETL, dese
 </div>
 
 <br>
-
-### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Gabrielxdev">
