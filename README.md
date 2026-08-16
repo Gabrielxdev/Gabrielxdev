@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Thiago! 
 
-Sou um analista de dados com foco estrito na criação de processos de ETL, desenvolvimento de dashboards e análise de dados. Atualmente, sou estudante de Data Science e estou sempre buscando expa[...]
+Sou um analista de dados com foco estrito na criação de processos de ETL, desenvolvimento de dashboards e análise de dados. Atualmente, sou estudante de Data Science.
 
 - 🌱 **Atualmente aprimorando:** Python, Machine Learning, Power BI e Engenharia de Dados utilizando Databricks.
 - 💬 **Pergunte-me sobre:** Análise de dados, modelagem, estruturação de ETL e criação de dashboards.
